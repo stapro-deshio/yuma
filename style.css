@@ -1,0 +1,15 @@
+.ue {
+    color:white;
+    background-color: brown;
+}
+.inu {
+    width: 480px;
+}
+.box{
+    position:relative;
+}
+.text {
+    color: white;
+    position:absolute;
+    top: 0px;
+}
